@@ -59,7 +59,7 @@ python h.py
 # 📈 Visualization Example
 
 Graph shows actual vehicle count vs predicted values across models.
-![Output_Graph]()
+![Output_Graph](ouput.png)
 
 # 📦 Future Improvements
 - Include more diverse traffic datasets (seasonal, weather-based)
