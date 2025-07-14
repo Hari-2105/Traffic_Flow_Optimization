@@ -17,7 +17,7 @@ This project focuses on predicting short-term traffic flow using deep learning m
 | LSTM_model |	98.6602 |	7.2386 |	103.3291 |	7.4078 |
 | GRU_model	| 96.3524	| 7.1779 |	102.2943 |	7.4431 |
 | NAN_LSTM_model | 	98.0903	| 7.2958 | 	102.3280 |	7.4691|
-| NAN_GRU_model	100.2429 |	7.3498 |	103.4200 |	7.5041 |
+| NAN_GRU_model |	100.2429 |	7.3498 |	103.4200 |	7.5041 |
 | NANI_LSTM_model	 | 99.8219 |	7.3144 |	105.5591 |	7.5316 |
 | NANI_GRU_model |	94.7378 |	7.1303 |	101.1206 |	7.4203 |
 
@@ -53,10 +53,8 @@ python h.py
 - Evaluation metrics saved to models/evaluation_metrics.csv
 
 - Time-series plot comparing:
-
--- True vs predicted traffic flows
-
--- All models (LSTM, GRU, NAN, NANI)
+    - True vs predicted traffic flows
+    - All models (LSTM, GRU, NAN, NANI)
 
 # 📈 Visualization Example
 
