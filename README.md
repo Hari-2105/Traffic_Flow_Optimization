@@ -32,8 +32,6 @@ This project focuses on predicting short-term traffic flow using deep learning m
 
 - scikit-learn
 
-- h5py
-
 Install using:
 ```
 pip install -r requirements.txt
@@ -47,7 +45,7 @@ python TrafficFlow.py
 # 🧪 Testing & Plotting
 To evaluate saved models and generate prediction plots:
 ```
-python h.py
+python main.py
 ```
 # 📉 Output
 - Evaluation metrics saved to models/evaluation_metrics.csv
